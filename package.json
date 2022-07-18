@@ -52,7 +52,7 @@
     "eslint-plugin-react": "^6.10.3",
     "history": "^4.6.1",
     "html-webpack-plugin": "^2.28.0",
-    "http-server": "^0.10.0",
+    "http-server": "^0.13.0",
     "if-env": "^1.0.0",
     "jquery": "^3.2.1",
     "json5": "^0.5.1",
@@ -73,7 +73,7 @@
     "redux-thunk": "^2.2.0",
     "redux-thunk-actions": "^1.1.6",
     "request": "^2.85.0",
-    "style-loader": "^0.16.1",
+    "style-loader": "^0.23.0",
     "webpack": "^2.3.3",
     "webpack-bundle-analyzer": "^3.3.2"
   },
