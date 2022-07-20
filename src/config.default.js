@@ -1,9 +1,7 @@
 export default {
     server: {
-        type: "STU-3", // "DSTU-2" or "STU-3" or "R4"
-
-        url: "https://r3.smarthealthit.org",
-
+        type: "R4",
+        url: "http://localhost:3010/fhir",
         conditions: {},
 
         tags: []

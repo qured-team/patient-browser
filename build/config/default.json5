@@ -1,7 +1,7 @@
 {
     server: {
-        type: "STU-3",
-        url: "https://r3.smarthealthit.org",
+        type: "R4",
+        url: "http://localhost:3010/fhir",
         tags: [
             {
                 key  : "pro-7-2017",
